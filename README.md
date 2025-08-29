@@ -1,2 +1,1 @@
-# AmazonClone
-Amazon first page(Home Page) clone
+# This is my local repo
